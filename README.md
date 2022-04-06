@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Cloud Computing, Web applications.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on programming projects.
-- 📫 How to reach me: ha0073@mix.wvu.edu
+- 📫 How to reach me: hoor.dream@hotmail.com
 
 <!---
 HawraAlomani/HawraAlomani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
