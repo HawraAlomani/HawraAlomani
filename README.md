@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HawraAlomani
-- 👀 I’m interested in AI, Cloud Computing, Web applications.
-- 🌱 I’m currently learning Python and Web development.
+- 👀 I’m interested in Blender, Three.js, and Web applications.
+- 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on programming projects.
-- 🤖 I have joined Codewars recently (www.codewars.com/users/HawraAlomani/)
 - 📫 How to reach me: hoor.dream@hotmail.com
 
 <!---
